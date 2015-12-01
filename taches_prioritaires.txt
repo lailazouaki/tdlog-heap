@@ -1,0 +1,7 @@
+2: Anglais
+10: TDLOG
+1: Courses
+5: MOPSI
+7: Recherche opérationnelle
+7: Analyse spectrale
+0: Ne rien faire
